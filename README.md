@@ -1,33 +1,35 @@
-# Frontend Mentor - Social Proof Section (Tailwind + React)
+# Frontend Mentor - Social Proof Section Solution
 
-This is a solution to the [Social Proof Section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). I built this using **React** and **Tailwind CSS** to practice utility-first styling for the first time.
+This is my solution to the [Social Proof Section challenge](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA) on Frontend Mentor.
 
-## 🚀 Live Site
+## 🔗 Live Site  
+[https://Mohammad-Irfan-Noorzada.github.io/social-proof-section-master](https://Mohammad-Irfan-Noorzada.github.io/social-proof-section-master)
 
-👉 [Live Demo](https:/Mohammad-Irfan-Noorzada.github.io/social-proof-section-master)
+## 🚀 Overview
 
-## 🛠️ Built With
+A simple, responsive layout displaying social proof using customer testimonials and ratings.
 
-- React
-- Tailwind CSS
-- Vite (for faster development)
-- Mobile-first responsive layout
-- Semantic HTML
-
-## 💡 What I Learned
-
-This was my **first Tailwind CSS project**, and I'm proud I replicated the original design precisely.  
-Although the challenge was simple, it helped me focus fully on learning Tailwind’s utility classes, spacing system, and responsive tools.
-
-## 📈 What I'd Do Differently
-
-Next time, I’ll aim for more reusable components and possibly explore using Tailwind plugins or custom configs.
-
-## 📌 Author
-
-- GitHub – [Mohammad-Irfan-Noorzada](https://github.com/Mohammad-Irfan-Noorzada)
-- Frontend Mentor – [@Mohammad-Irfan-Noorzada](https://www.frontendmentor.io/profile/Mohammad-Irfan-Noorzada)
+> I chose this easy challenge because it was my **first time using Tailwind CSS**, and I wanted to focus on learning utility-first styling.
 
 ---
 
-⭐ If you like this, feel free to check out my other challenges too!
+## 🧠 What I learned
+
+- How to apply **Tailwind classes** for spacing, layout, typography, and responsiveness
+- Working with **mobile-first design**
+- Using **conditional styling** and **mapping through arrays** in React
+
+---
+
+## 🛠️ Built With
+
+- **React**
+- **Tailwind CSS**
+- Semantic HTML5 markup
+- Flexbox and responsive design
+
+---
+
+## 📌 Author
+
+- Frontend Mentor: [@Mohammad-Irfan-Noorzada](https://www.frontendmentor.io/profile/Mohammad-Irfan-Noorzada)
