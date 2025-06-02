@@ -1,12 +1,33 @@
-# React + Vite
+# Frontend Mentor - Social Proof Section (Tailwind + React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Social Proof Section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). I built this using **React** and **Tailwind CSS** to practice utility-first styling for the first time.
 
-Currently, two official plugins are available:
+## 🚀 Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Live Demo](https://Mohammad-Irfan-Noorzada.github.io/social-proof-section-master)
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Tailwind CSS
+- Vite (for faster development)
+- Mobile-first responsive layout
+- Semantic HTML
+
+## 💡 What I Learned
+
+This was my **first Tailwind CSS project**, and I'm proud I replicated the original design precisely.  
+Although the challenge was simple, it helped me focus fully on learning Tailwind’s utility classes, spacing system, and responsive tools.
+
+## 📈 What I'd Do Differently
+
+Next time, I’ll aim for more reusable components and possibly explore using Tailwind plugins or custom configs.
+
+## 📌 Author
+
+- GitHub – [Mohammad-Irfan-Noorzada](https://github.com/Mohammad-Irfan-Noorzada)
+- Frontend Mentor – [@Mohammad-Irfan-Noorzada](https://www.frontendmentor.io/profile/Mohammad-Irfan-Noorzada)
+
+---
+
+⭐ If you like this, feel free to check out my other challenges too!
