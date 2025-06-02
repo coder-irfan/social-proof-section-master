@@ -4,7 +4,7 @@ This is a solution to the [Social Proof Section challenge on Frontend Mentor](ht
 
 ## 🚀 Live Site
 
-👉 [Live Demo](https://Mohammad-Irfan-Noorzada.github.io/social-proof-section-master)
+👉 [Live Demo](https:/Mohammad-Irfan-Noorzada.github.io/social-proof-section-master)
 
 ## 🛠️ Built With
 
