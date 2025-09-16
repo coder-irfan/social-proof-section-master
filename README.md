@@ -3,7 +3,7 @@
 This is my solution to the [Social Proof Section challenge](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA) on Frontend Mentor.
 
 ## 🔗 Live Site  
-[https://Mohammad-Irfan-Noorzada.github.io/social-proof-section-master](https://Mohammad-Irfan-Noorzada.github.io/social-proof-section-master)
+[https://coder-irfan.github.io/social-proof-section-master](https://coder-irfan.github.io/social-proof-section-master)
 
 ## 🚀 Overview
 
